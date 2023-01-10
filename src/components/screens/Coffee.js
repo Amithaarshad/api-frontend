@@ -11,6 +11,7 @@ function Coffee() {
         <LeftBar />
         {/* Structuring of middle container starts */}
         <MiddleContainer>
+          {/* hii */}
           <Header>
             <HeadLeft>
               <Heading>Welcome,Epan Danis!</Heading>
